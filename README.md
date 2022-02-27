@@ -3,7 +3,6 @@
 - 💬 Hi I'm Isaac Joshua, a fullstack developer
 
 <br>
-<br>
 
 ### Languages and Tools:
 
@@ -26,6 +25,9 @@
 Find me on..
 
 <a href="https://www.linkedin.com/in/isaac-carnes-39122a219/" target="_blank">LinkedIn</a> | <a href="https://isaacjcarnes.github.io/react-portfolio-ij/" target="_blank">My Portfolio</a> | <a href="mailto:isaacjdeveloper@gmail.com" target="_blank">Email</a>
+
+<br>
+<br>
 
 <div width="100%">
 <img align="left" height="165px" src="https://github-readme-stats.vercel.app/api?username=IsaacJCarnes&show_icons=true&theme=calm" />

@@ -19,14 +19,12 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br>
-<br>
 
 ### Let's Connect!
 Find me on..
 
 <a href="https://www.linkedin.com/in/isaac-carnes-39122a219/" target="_blank">LinkedIn</a> | <a href="https://isaacjcarnes.github.io/react-portfolio-ij/" target="_blank">My Portfolio</a> | <a href="mailto:isaacjdeveloper@gmail.com" target="_blank">Email</a>
 
-<br>
 <br>
 
 <div width="100%">

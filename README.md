@@ -1,6 +1,6 @@
 # Hi, there 👋
 
-- 💬 Hi I'm Isaac Joshua, a Fullstack Developer
+- 💬 I'm Isaac Joshua, a Fullstack Developer
 
 
 ![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacJCarnes&show_icons=true&theme=aura_dark)

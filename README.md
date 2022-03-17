@@ -33,12 +33,8 @@ Find me on..
 <img align="left" height="165px" src="https://github-readme-stats.vercel.app/api?username=IsaacJCarnes&show_icons=true&theme=aura_dark" />
 </div>
 
-<br>
-<br>
 My public Portfolio built with React
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=IsaacJCarnes&repo=ij-portfolio)](https://github.com/IsaacJCarnes/ij-portfolio)
 
-<br>
-<br>
 Website for designing and exporting buisness card built with React
 [![Card Graphix](https://github-readme-stats.vercel.app/api/pin/?username=wl0194&repo=card-graphix)](https://github.com/wl0194/card-graphix)

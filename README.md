@@ -6,7 +6,7 @@
 ![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacJCarnes&show_icons=true&theme=aura_dark)
 
 ## Repos
-<table style="border-collapse:collapse">
+<table>
   <tr>  
     <td>
       

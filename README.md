@@ -10,21 +10,21 @@
   <tr>  
     <td>
       
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=IsaacJCarnes&repo=ij-portfolio)](https://github.com/IsaacJCarnes/ij-portfolio)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=IsaacJCarnes&repo=ij-portfolio&theme=aura_dark)](https://github.com/IsaacJCarnes/ij-portfolio)
     </td>
     <td>
       
-[![Card Graphix](https://github-readme-stats.vercel.app/api/pin/?username=wl0194&repo=card-graphix)](https://github.com/wl0194/card-graphix)
+[![Card Graphix](https://github-readme-stats.vercel.app/api/pin/?username=wl0194&repo=card-graphix&theme=aura_dark)](https://github.com/wl0194/card-graphix)
     </td>
   </tr>
   <tr>
     <td>
       
-[![Dog Endorsement Wesbite](https://github-readme-stats.vercel.app/api/pin/?username=IsaacJCarnes&repo=DogEndorsementWebsite)](https://github.com/IsaacJCarnes/DogEndorsementWebsite)
+[![Dog Endorsement Wesbite](https://github-readme-stats.vercel.app/api/pin/?username=IsaacJCarnes&repo=DogEndorsementWebsite&theme=aura_dark)](https://github.com/IsaacJCarnes/DogEndorsementWebsite)
     </td>
     <td>
       
- [![Maze Game](https://github-readme-stats.vercel.app/api/pin/?username=IsaacJCarnes&repo=MazeGen)](https://github.com/IsaacJCarnes/MazeGen)
+ [![Maze Game](https://github-readme-stats.vercel.app/api/pin/?username=IsaacJCarnes&repo=MazeGen&theme=aura_dark)](https://github.com/IsaacJCarnes/MazeGen)
     </td>
   </tr>
 </table>

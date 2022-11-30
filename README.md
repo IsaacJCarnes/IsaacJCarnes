@@ -14,7 +14,7 @@
     </td>
     <td>
       
-[![Card Graphix](https://github-readme-stats.vercel.app/api/pin/?username=wl0194&repo=card-graphix&theme=aura_dark)](https://github.com/IsaacJCarnes/card-graphix-firebase)
+[![Card Graphix](https://github-readme-stats.vercel.app/api/pin/?username=IsaacJCarnes&repo=card-graphix-firebase&theme=aura_dark)](https://github.com/IsaacJCarnes/card-graphix-firebase)
     </td>
   </tr>
   <tr>

@@ -20,7 +20,7 @@
   <tr>
     <td>
       
-[![Dog Endorsement Wesbite](https://github-readme-stats.vercel.app/api/pin/?username=IsaacJCarnes&repo=DogEndorsementWebsite&theme=aura_dark)](https://github.com/IsaacJCarnes/DogEndorsementWebsite)
+[![Tileset Viewer](https://github-readme-stats.vercel.app/api/pin/?username=IsaacJCarnes&repo=TilesetViewer&theme=aura_dark)](https://github.com/IsaacJCarnes/TilesetViewer)
     </td>
     <td>
       
